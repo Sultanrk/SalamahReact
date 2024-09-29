@@ -1,0 +1,8 @@
+.Qckbox {
+  background: linear-gradient(70deg, rgba(96,169,120,1) 60%, rgba(58,202,181,1) 100%);
+  height: 342px;
+  width: 375px;
+  overflow: auto;
+  border-radius: 25px;
+
+}

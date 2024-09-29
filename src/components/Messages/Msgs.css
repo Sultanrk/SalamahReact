@@ -1,0 +1,41 @@
+.msgbox {
+  background: linear-gradient(
+    220deg,
+    rgba(101, 180, 255, 1) 0%,
+    rgba(68, 159, 244, 1) 100%
+  );
+  height: 342px;
+  width: 375px;
+  border-radius: 25px;
+  margin-bottom: 16px;
+}
+
+.msg {
+  background: rgba(255, 255, 255, 0.198);
+  color: white;
+  height: auto;
+  width: 350px;
+  border-radius: 25px;
+  margin: auto;
+  overflow: auto;
+  margin-bottom: 10px;
+}
+
+.msgcontent
+{
+  margin-top: 10px;
+  margin-left: 10px;
+  color: rgb(236, 236, 236);
+  font-size: 14px;
+  margin-right: 15px;
+}
+
+.senderlogo {
+  font-size: 32px;
+  margin-left: 15px;
+}
+
+.senderheader {
+  margin: 0;
+  margin-bottom: -12px;
+}

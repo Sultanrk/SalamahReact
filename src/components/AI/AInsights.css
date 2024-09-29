@@ -1,0 +1,7 @@
+.insights {
+  background: linear-gradient(70deg, rgba(80,153,174,1) 50%, rgba(235,88,201,1) 100%);;
+  height: 700px;
+  width: 375px;
+  overflow: auto;
+  border-radius: 25px;
+}
